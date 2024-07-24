@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Тест on Небольшой блог Большого человека</title>
-    <link>http://localhost:1313/tags/%D1%82%D0%B5%D1%81%D1%82/</link>
+    <link>https://diplodoqus.github.io/tags/%D1%82%D0%B5%D1%81%D1%82/</link>
     <description>Recent content in Тест on Небольшой блог Большого человека</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 24 Jul 2024 16:53:03 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%D1%82%D0%B5%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://diplodoqus.github.io/tags/%D1%82%D0%B5%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>https://diplodoqus.github.io/posts/test/</link>
       <pubDate>Wed, 24 Jul 2024 16:53:03 +0700</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>https://diplodoqus.github.io/posts/test/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt tristique tellus. Aenean sapien ipsum, elementum eget magna feugiat, sodales dictum sapien. Etiam suscipit ex urna. Curabitur sagittis, eros at congue pharetra, urna nisi efficitur orci, vel faucibus leo risus id velit. Maecenas id posuere neque. Nullam at vulputate massa, vitae tempus lorem. Aenean pretium lobortis interdum. Phasellus a ultrices est. Etiam a enim erat. Nullam at massa vitae lorem convallis pulvinar.</description>
     </item>
   </channel>
